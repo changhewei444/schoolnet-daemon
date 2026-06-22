@@ -291,4 +291,5 @@ if (!g_log.init("/var/log/schoolnet-daemon.log")) {……}
 - 结果：平时 CPU 占用近乎 0%，断网后 1 秒内开始重连流程
 
 麻烦学弟学妹们帮我点点⭐️🤩star🤩⭐️，感谢！！！💋💋💋
-如有困难联系学长🐧🐧653224138
+
+如有困难联系学长📧changhewei0909@gmail.com
